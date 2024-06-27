@@ -1,0 +1,106 @@
+/* General Container */
+.d-flex {
+    display: flex;
+  }
+  
+  .justify-content-center {
+    justify-content: center;
+  }
+  
+  .flex-column {
+    flex-direction: column;
+  }
+  
+  .ml-2 {
+    margin-left: 0.5rem;
+  }
+  
+  /* Inner Container */
+  .mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .border {
+    border-width: 1px;
+  }
+  
+  .border-danger {
+    border-color: #ff3b30; /* Apple’s red color */
+  }
+  
+  .bg-success {
+    background-color: #28a745;
+  }
+  
+  .py-4 {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+  
+  .mb-0 {
+    margin-bottom: 0;
+  }
+  
+  .lead {
+    font-size: 1.25rem;
+  }
+  
+  .fw-bold {
+    font-weight: 700;
+  }
+  
+  .h2, .h4 {
+    font-size: 1.5rem;
+  }
+  
+  .h2 {
+    font-size: 2rem;
+  }
+  
+  /* Specific Styling */
+  .box-shadow {
+    box-shadow: 5px 5px 5px #dff;
+  }
+  
+  /* Background Colors */
+  .bg-dark-grey {
+    background-color: #333;
+  }
+  
+  .bg-light-grey {
+    background-color: #f5f5f5;
+  }
+  
+  /* Text Colors */
+  .text-white {
+    color: #fff;
+  }
+  
+  .text-black {
+    color: #000;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  /* Padding */
+  .p-4 {
+    padding: 1.5rem;
+  }
+  
+  .mx-5 {
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+  
+  /* Custom Styles */
+  .display-5 {
+    font-size: 3rem;
+  }
+  
+  .fw-bold {
+    font-weight: 700;
+  }
+  
